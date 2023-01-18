@@ -63,7 +63,7 @@ const Events = () => {
   };
 
   return (
-    <div className="box-border my-4 min-h-[300px] md:min-h-[440px]">
+    <div className="box-border my-4 min-h-[300px] md:min-h-[560px]">
       <h1 className="text-2xl font-semibold w-full text-center text-p-1 my-3">
         Events
       </h1>
