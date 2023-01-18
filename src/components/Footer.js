@@ -47,7 +47,7 @@ const Footer = () => {
           <p className="font-semibold">Address</p>
           <p>
             Hanlon Financial Systems Lab
-            <br />ß Babbio Center
+            <br />Babbio Center
             <br />
             525 River St.
             <br />
